@@ -1,4 +1,4 @@
-### I'm Stanyslas Bres, Nice to meet you 👋
+### I'm **Stanyslas Bres**, Nice to meet you 👋
 
 > Fullstack web developer
 
