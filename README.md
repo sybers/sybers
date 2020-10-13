@@ -9,10 +9,6 @@ After that I worked for [Mezcalito](https://www.mezcalito.fr), a French web agen
 
 ### On the Internet 🌐
 
-| [✌️ Personal website](link-portfolio) | [🐦 Twitter](link-twitter) | [💼 LinkedIn](link-linkedin) |
-| ------------------------------------- | -------------------------- | ---------------------------- |
+| [✌️ Personal website](https://www.stanyslasbres.fr) | [🐦 Twitter](https://twitter.com/stanyslasbres) | [💼 LinkedIn](https://www.linkedin.com/in/stanyslasbres) |
+| --------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
 
-
-[link-portfolio]: https://www.stanyslasbres.fr
-[link-twitter]: https://twitter.com/stanyslasbres
-[link-linkedin]: https://www.linkedin.com/in/stanyslasbres
