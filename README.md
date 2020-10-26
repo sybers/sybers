@@ -16,3 +16,6 @@ I'm now a Freelance Fullstack Web Developer, mainly working with Vue.js, Symfony
 | [✌️ Personal website](https://www.stanyslasbres.fr) | [🐦 Twitter](https://twitter.com/stanyslasbres) | [💼 LinkedIn](https://www.linkedin.com/in/stanyslasbres) |
 | --------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
 
+### Github Stats 🤓
+
+[![dzetah's github stats](https://github-readme-stats.vercel.app/api?username=dzetah)](https://github.com/anuraghazra/github-readme-stats)
