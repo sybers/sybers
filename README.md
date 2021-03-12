@@ -9,7 +9,7 @@ This experience led to an apprenticeship at [La Haute Société](https://www.lah
 
 After that I worked for [Mezcalito](https://www.mezcalito.fr), a French web agency, as a back-end web developer.
 
-I'm now a Freelance Fullstack Web Developer, mainly working with Vue.js, Symfony and Node.js.
+I'm now a [Freelance Fullstack Web Developer](https://www.stanyslasbres.fr), mainly working with Vue.js, Symfony and Node.js.
 
 ### On the Internet 🌐
 
