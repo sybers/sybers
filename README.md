@@ -18,4 +18,4 @@ I'm now a [Freelance Fullstack Web Developer](https://www.stanyslasbres.fr), mai
 
 ### Github Stats 🤓
 
-[![dzetah's github stats](https://github-readme-stats.vercel.app/api?username=dzetah)](https://github.com/anuraghazra/github-readme-stats)
+[![sybers's github stats](https://github-readme-stats.vercel.app/api?username=sybers)](https://github.com/anuraghazra/github-readme-stats)
