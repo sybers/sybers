@@ -2,14 +2,13 @@
 
 > Fullstack web developer
 
-After several years of a blossoming passion for computers, I decided to make web development my career path.
-In 2016, I was elected to the position of secretary at the Association of the Residents of the Cité Universitaire du Rabot ([ARCUR](https://www.arcur.fr)). My responsiblities there included management of the organization's website.
+Working in the IT field for more than 5 years now, I have a **Professional License** in Mobile Application Development and a **Master's degree in Computer Science and Mathematics** (both with honors 💪).
 
-This experience led to an apprenticeship at [La Haute Société](https://www.lahautesociete.com) as a developer followed by a two year master's degree in computer science at Université Grenoble Alpes.
-
-After that I worked for [Mezcalito](https://www.mezcalito.fr), a French web agency, as a back-end web developer.
+I had the opportunity to work with [La haute Société](https://www.lahautesociete.com/), [Mezcalito](https://www.mezcalito.fr), [Mailbutler](https://www.lahautesociete.com/) and the [LIG (Grenoble University Computer Science laboratory)](https://www.liglab.fr/en/).
 
 I'm now a [Freelance Fullstack Web Developer](https://www.stanyslasbres.fr), mainly working with Vue.js, Symfony and Node.js.
+
+Do not hesitate to contact me if you have a project!
 
 ### On the Internet 🌐
 
