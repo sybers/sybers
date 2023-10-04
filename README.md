@@ -12,8 +12,7 @@ Go check out [my personal website](https://www.stanyslasbres.fr) to see more of 
 
 ### On the Internet 🌐
 
-| [✌️ Personal website](https://www.stanyslasbres.fr) | [🐦 Twitter](https://twitter.com/stanyslasbres) | [💼 LinkedIn](https://www.linkedin.com/in/stanyslasbres) |
-| --------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
+[𝕏](https://x.com/stanyslasbres) | [Website](https://www.stanyslasbres.fr) | [LinkedIn](https://www.linkedin.com/in/stanyslasbres)
 
 ### Github Stats 🤓
 
