@@ -4,7 +4,11 @@
 
 Currently working at [Indy](https://www.indy.fr/) as a **Full-Stack Software Engineer**, mainly using Node.js, Vue.js and Typescript.
 
-I had the opportunity to work with [La haute Société](https://www.lahautesociete.com/), [Mezcalito](https://www.mezcalito.fr), [Mailbutler](https://www.mailbutler.io/) and the [LIG (Grenoble University Computer Science laboratory)](https://www.liglab.fr/en/).
+I had the opportunity to work with:
+- [La haute Société](https://www.lahautesociete.com/)
+- [Mezcalito](https://www.mezcalito.fr)
+- [Mailbutler](https://www.mailbutler.io/)
+- [LIG (Grenoble University Computer Science laboratory)](https://www.liglab.fr/en/).
 
 My degrees (both with honors 💪):
 - **Professional License** in Mobile Application Development
