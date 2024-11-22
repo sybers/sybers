@@ -19,7 +19,7 @@ Drop a message, we might end up working together !
 
 ### On the Internet 🌐
 
-[𝕏](https://x.com/stanyslasbres) | [Website](https://www.stanyslasbres.fr) | [LinkedIn](https://www.linkedin.com/in/stanyslasbres)
+[Website](https://www.stanyslasbres.fr) | [LinkedIn](https://www.linkedin.com/in/stanyslasbres)
 
 ### Github Stats 🤓
 
