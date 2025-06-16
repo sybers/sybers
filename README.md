@@ -19,6 +19,7 @@ Digital studio (SCOP) · Web platforms & UX · Clients: Sport 2000, Les 3 Vallé
 Grenoble University Computer Science laboratory
 
 **[La Haute Société](https://www.lahautesociete.com/)**  
+Digital agency · UI/UX & Web development· Clients: Adidas, Petzl, WWF
 
 My degrees (both with honors 💪):
 - **Master's degree** in Computer Science and Mathematics
