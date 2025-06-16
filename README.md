@@ -1,21 +1,31 @@
-### I'm **Stanyslas Bres**, Nice to meet you 👋
+### I'm **Stanyslas Bres** — nice to meet you! 👋
 
-> Fullstack Software Engineer
+> Fullstack Software Developer
 
-Currently working at [Indy](https://www.indy.fr/) as a **Full-Stack Software Engineer**, mainly using Node.js, Vue.js and Typescript.
+I'm a **Full-Stack Software Developer**, mainly working with Node.js, Vue.js, and TypeScript.
 
-I had the opportunity to work with:
-- [La haute Société](https://www.lahautesociete.com/)
-- [Mezcalito](https://www.mezcalito.fr)
-- [Mailbutler](https://www.mailbutler.io/)
-- [LIG (Grenoble University Computer Science laboratory)](https://www.liglab.fr/en/).
+Over the past 8 years, I’ve had the opportunity to work with the following companies:
+
+**[Indy](https://www.indy.fr/)** `current`  
+Automated accounting SaaS for freelancers & SMEs · Bank sync, invoicing, tax filing
+
+**[Mailbutler](https://www.mailbutler.io/)**  
+Email productivity SaaS · Smart features for Apple Mail & Gmail
+
+**[Mezcalito](https://www.mezcalito.fr)**  
+Digital studio (SCOP) · Web platforms & UX · Clients: Sport 2000, Les 3 Vallées
+
+**[LIG](https://www.liglab.fr/en/)**  
+Grenoble University Computer Science laboratory
+
+**[La Haute Société](https://www.lahautesociete.com/)**  
 
 My degrees (both with honors 💪):
-- **Professional License** in Mobile Application Development
 - **Master's degree** in Computer Science and Mathematics
+- **Professional License** in Mobile Application Development
 
-Go check out [my personal website](https://www.stanyslasbres.fr) to see more of my recent works and projects.  
-Drop a message, we might end up working together !
+Go check out [my personal website](https://www.stanyslasbres.fr) to see more of my recent work and projects.  
+Drop a message — we might end up working together!
 
 ### On the Internet 🌐
 
