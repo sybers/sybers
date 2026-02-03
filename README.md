@@ -8,8 +8,8 @@ Currently crafting solutions at [Indy](http://github.com/GeorgesTech).
 
 ### On the Internet 🌐
 
-![Bluesky](https://img.shields.io/badge/@sybers.fr-0285FF?style=flat-square&logo=Bluesky&logoColor=white)
-![X](https://img.shields.io/badge/@syberscraft-%23000000.svg?style=flat-square&logo=X&logoColor=white)
-![Website](https://img.shields.io/badge/Website-%230170EA.svg?style=flat-square&logo=googlechrome&logoColor=white)
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)
+[![Bluesky](https://img.shields.io/badge/@sybers.fr-0285FF?style=flat-square&logo=Bluesky&logoColor=white)](https://bsky.app/profile/sybers.fr)
+[![X](https://img.shields.io/badge/@syberscraft-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/syberscraft)
+[![Website](https://img.shields.io/badge/Website-%230170EA.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://stanyslasbres.fr)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/sybers)
 
