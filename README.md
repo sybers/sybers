@@ -1,8 +1,6 @@
 ### I'm **Stanyslas Bres** — nice to meet you! 👋
 
-> Fullstack Software Developer
-
-I'm a **Full-Stack Software Developer**, mainly working with Node.js, Vue.js, and TypeScript.
+I'm a **Senior Full-Stack Software Developer**, mainly working with Node.js, Vue.js, and TypeScript.
 
 Currently crafting solutions at [Indy](http://github.com/GeorgesTech).
 
